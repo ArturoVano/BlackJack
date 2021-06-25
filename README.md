@@ -1,2 +1,2 @@
 # BlackJack
-Juego web para realizado para el aprendizaje en JavaScript
+Juego web realizado para el aprendizaje en JavaScript
